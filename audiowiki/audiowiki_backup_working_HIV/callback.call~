@@ -1,0 +1,9 @@
+Context: callback-learn2earn2
+Extension: 1
+MaxRetries: 1
+RetryTime: 30
+Channel: dahdi/g1/09741596282
+SetVar: swaraChannel=main
+SetVar: targetnumber=9741596282
+callerid: 9741596282
+Account: 9741596282
